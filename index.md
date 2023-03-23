@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Master's student at NYU, Courant and a research assistant in the [Music and Audio Research Lab](https://steinhardt.nyu.edu/marl), NYU.
+I am advised by Prof. [Magdalena Fuentes](https://magdalenafuentes.github.io/) and Dr. [Iran Roman](https://ccrma.stanford.edu/~iran/).
+My research interests lie in multimodal deep learning and machine listening.  
 
-## Research Interests
+Prior to joining NYU, I worked as Machine learning engineer II at Zomato and Senior Data Scientist at Sharechat. 
+While in industry I applied ML to solve problems in user recommendation and personalization. 
+I received my B.Tech degree in Mathematics and Computing from IIT Delhi. 
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+In my spare time I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May. 2023]** Joining as a PhD student at UT Dallas.
+- **[Mar. 2023]** Serving as a reviewer for Machine Learning for Signal Processing (MLSP) 2023.
+- **[Nov. 2022]** Our paper about sound localization is accepted to DCASE 2022 Workshop.
 
 {% include_relative _includes/publications.md %}
 
