@@ -15,6 +15,7 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 In my spare time I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 ## News
+- **[May. 2023]** One paper accepted at INTERSPEECH 23. 
 - **[May. 2023]** Joining as a PhD student at UT Dallas.
 - **[Mar. 2023]** Serving as a reviewer for Machine Learning for Signal Processing (MLSP) 2023.
 - **[Nov. 2022]** Our paper about sound localization is accepted to DCASE 2022 Workshop.
