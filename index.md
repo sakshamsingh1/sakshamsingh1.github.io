@@ -14,6 +14,7 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 ## News
+- **[July 2023]** Serving as a Reviewer for AAAI-24. 
 - **[July 2023]** One paper about sound source distance estimation is accepted at WASPAA 23. 
 - **[May 2023]** One paper about multimodal sound recognition is accepted at INTERSPEECH 23.
 - **[May 2023]** Joining as a PhD student at UT Dallas.
