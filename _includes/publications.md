@@ -38,7 +38,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2306.12300.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/sakshamsingh1/audio_text_proto" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ljBVWRu9x4UJ:scholar.google.com/&output=citation&scisdr=CgVZ2zK2EL-Po4WA4r4:AAGBfm0AAAAAZByG-r5CaFYHZ6DircDMnouU3ZvoC26D&scisig=AAGBfm0AAAAAZByG-jgMH7pU4EKrWEACxQyGSjT3SNbb&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/sakshamsingh1/audio_text_proto" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page(coming soon)</a>
     </div>
   </div>
 </div>
