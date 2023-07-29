@@ -22,8 +22,30 @@
   </div>
 </div>
 </li>
-  
 <br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/seld.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2306.12300.pdf">A multimodal prototypical approach for unsupervised sound classification</a></div>
+    <div class="author"><strong>Saksham Singh Kushwaha</strong>, Magdalena Fuentes</div>
+    <div class="periodical"><em><strong>(INTERSPEECH)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2306.12300.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/sakshamsingh1/audio_text_proto" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ljBVWRu9x4UJ:scholar.google.com/&output=citation&scisdr=CgVZ2zK2EL-Po4WA4r4:AAGBfm0AAAAAZByG-r5CaFYHZ6DircDMnouU3ZvoC26D&scisig=AAGBfm0AAAAAZByG-jgMH7pU4EKrWEACxQyGSjT3SNbb&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+
 
 </ol>
 </div>
