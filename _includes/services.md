@@ -5,3 +5,6 @@
 <ul style="margin:0 0 5px;">
   <li><a href="https://2023.ieeemlsp.org/"><autocolor>MLSP 2023</autocolor></a></li>
 </ul>
+<ul style="margin:0 0 5px;">
+  <li><a href="https://aaai.org/aaai-conference/"><autocolor>AAAI 2024</autocolor></a></li>
+</ul>
