@@ -38,7 +38,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2306.12300.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/sakshamsingh1/audio_text_proto" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://github.com/sakshamsingh1/audio_text_proto" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project page(coming soon)</a>
+      <a href="assets/files/interspeech23_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
