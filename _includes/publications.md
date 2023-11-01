@@ -18,6 +18,9 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2309.09288.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/sakshamsingh1/sound_distance_estimation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/sakshamsingh1/sakshamsingh1.github.io/blob/main/assets/files/waspaa23_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
+      <a href="https://github.com/sakshamsingh1/sakshamsingh1.github.io/blob/main/assets/files/waspaa_23_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://www.youtube.com/watch?v=9cNeFReyr6s&t=17s" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
     </div>
   </div>
 </div>
@@ -60,7 +63,7 @@
     <div class="links">
       <a href="https://dcase.community/documents/workshop2022/proceedings/DCASE2022Workshop_Kushwaha_54.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/sakshamsingh1/dcase_seld_spatial_sampling_analysis" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://scholar.googleusercontent.com/scholar.bib?q=info:ljBVWRu9x4UJ:scholar.google.com/&output=citation&scisdr=CgVZ2zK2EL-Po4WA4r4:AAGBfm0AAAAAZByG-r5CaFYHZ6DircDMnouU3ZvoC26D&scisig=AAGBfm0AAAAAZByG-jgMH7pU4EKrWEACxQyGSjT3SNbb&scisf=4&ct=citation&cd=-1&hl=en" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      <a href="https://github.com/sakshamsingh1/dcase_seld_spatial_sampling_analysis/blob/main/ppt_and_poster/poster_final.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
