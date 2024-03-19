@@ -3,6 +3,10 @@
 <h4 style="margin:0 10px 0;">Reviewer</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://sites.google.com/view/elvm/call-for-papers"><autocolor>ELVM Workshop @ CVPR 2024</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li><a href="https://2023.ieeemlsp.org/"><autocolor>MLSP 2023</autocolor></a></li>
 </ul>
 <ul style="margin:0 0 5px;">
