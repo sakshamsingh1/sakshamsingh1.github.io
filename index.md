@@ -14,7 +14,7 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 ## News
-- **[Mar. 2024]** Serving as a Reviewer for [ELVM Workshop](https://sites.google.com/view/elvm/call-for-papers) @ CVPR-24. 
+- **[Mar. 2024]** Serving as a Reviewer for ACMMM-24 and [ELVM Workshop](https://sites.google.com/view/elvm/call-for-papers) @ CVPR-24. 
 - **[Sept. 2023]** Serving as a Reviewer for ICASSP-24. 
 - **[July 2023]** Serving as a Reviewer for AAAI-24. 
 - **[July 2023]** One paper about sound source distance estimation is accepted at WASPAA 23. 
