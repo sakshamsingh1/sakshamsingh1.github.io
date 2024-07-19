@@ -8,7 +8,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/sound_source.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/AVDD_viz.jpg" class="teaser img-fluid z-depth-1">
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
@@ -17,7 +17,7 @@
     <div class="periodical"><em> CVPR Sight and Sound Workshop <strong>(WSS)</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://sightsound.org/papers/2024/Kushwaha_Dataset_distillation_for_audio-visual_datasets.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/sakshamsingh1/sakshamsingh1.github.io/blob/main/assets/files/waspaa_23_slides.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://github.com/sakshamsingh1/sakshamsingh1.github.io/blob/main/assets/files/WSS_AVDD.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
     </div>
   </div>
 </div>
