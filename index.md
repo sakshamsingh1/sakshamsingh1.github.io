@@ -30,3 +30,5 @@ In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+
+{% include_relative _includes/invited_talks.md %}
