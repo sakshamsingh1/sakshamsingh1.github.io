@@ -8,6 +8,29 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sound_source.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2309.09288.pdf">Diff-SAGe: End-to-end spatial audio generation using diffusion models</a></div>
+    <div class="author"><strong>Saksham Singh Kushwaha</strong>, Jianbo Ma, Mark Thomas, Yapeng Tian, Avery Bruni</div>
+    <div class="periodical"><em>ArXiv (Under review), 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2410.11299" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://sakshamsingh1.github.io/spatial_audio_demo.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://www.youtube.com/watch?v=J-pBzCMyUKE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/AVDD_viz.jpg" class="teaser img-fluid z-depth-1">
   </div>
 
