@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/pdf/2309.09288.pdf">Diff-SAGe: End-to-end spatial audio generation using diffusion models</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2410.11299">Diff-SAGe: End-to-end spatial audio generation using diffusion models</a></div>
     <div class="author"><strong>Saksham Singh Kushwaha</strong>, Jianbo Ma, Mark Thomas, Yapeng Tian, Avery Bruni</div>
     <div class="periodical"><em>ArXiv (Under review), 2024.</em></div>
     <div class="links">
