@@ -22,10 +22,14 @@ In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_
 - **[May 2023]** One paper about multimodal sound recognition is accepted at INTERSPEECH 23.
 - **[May 2023]** Joining as a PhD student at UT Dallas.
 - **[May 2023]** Completed MS in CS from NYU Courant.
+</details>
+ <summary><strong>🔽 More</strong></summary>
+ 
 - **[May 2023]** Received Exceptional Contribution award as guitarist for NYU pop/rock ensemble.
 - **[May 2023]** NYU pop/rock ensemble won the 2023 Downbeat award for outstanding performance.
 - **[Mar. 2023]** Serving as a reviewer for Machine Learning for Signal Processing (MLSP) 2023.
 - **[Nov. 2022]** Our paper about sound localization is accepted to DCASE 2022 Workshop.
+</details>
 
 {% include_relative _includes/publications.md %}
 
