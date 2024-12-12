@@ -25,10 +25,10 @@ In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_
 
 <details><summary> More </summary>
   
-  - **[May 2023]** Received Exceptional Contribution award as guitarist for NYU pop/rock ensemble.
-  - **[May 2023]** NYU pop/rock ensemble won the 2023 Downbeat award for outstanding performance.
-  - **[Mar. 2023]** Serving as a reviewer for Machine Learning for Signal Processing (MLSP) 2023.
-  - **[Nov. 2022]** Our paper about sound localization is accepted to DCASE 2022 Workshop.
+- **[May 2023]** Received Exceptional Contribution award as guitarist for NYU pop/rock ensemble.
+- **[May 2023]** NYU pop/rock ensemble won the 2023 Downbeat award for outstanding performance.
+- **[Mar. 2023]** Serving as a reviewer for Machine Learning for Signal Processing (MLSP) 2023.
+- **[Nov. 2022]** Our paper about sound localization is accepted to DCASE 2022 Workshop.
 
 </details>
 
