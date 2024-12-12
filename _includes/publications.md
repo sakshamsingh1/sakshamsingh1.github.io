@@ -8,6 +8,29 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/avdd_tmlr.png" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openreview.net/pdf?id=IJlbuSrXmk">Audio-Visual Dataset Distillation</a></div>
+    <div class="author"><strong>Saksham Singh Kushwaha</strong>, Siva Vasireddy, Kai Wang, Yapeng Tian</div>
+    <div class="periodical"><em>TMLR, 2024.</em></div>
+    <div class="links">
+      <a href="https://openreview.net/pdf?id=IJlbuSrXmk" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/sakshamsingh1/AVDD" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://www.youtube.com/watch?v=SfXLu8D_K6o" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Video</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/diff-sage.jpg" class="teaser img-fluid z-depth-1">
   </div>
 
