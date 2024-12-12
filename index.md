@@ -22,7 +22,7 @@ In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_
 - **[May 2023]** One paper about multimodal sound recognition is accepted at INTERSPEECH 23.
 - **[May 2023]** Joining as a PhD student at UT Dallas.
 - **[May 2023]** Completed MS in CS from NYU Courant.
-<details style="margin-top: 0;">  
+<details style="margin-top: -2px;">  
   <summary>More</summary>
   <ul>
     <li><strong>[May 2023]</strong> Received Exceptional Contribution award as guitarist for NYU pop/rock ensemble.</li>
