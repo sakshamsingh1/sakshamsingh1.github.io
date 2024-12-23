@@ -14,6 +14,7 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 ## News
+- **[Dec 2024]** One paper about spatial audio generation accepted at [ICASSP-25](https://2025.ieeeicassp.org/). 
 - **[Oct 2024]** One paper about multimodal dataset distillation accepted at [TMLR-24](https://jmlr.org/tmlr/). 
 - **[May 2024]** One paper accepted at [Sight and Sound Workshop](https://sightsound.org/#schedule) @ CVPR-24. 
 - **[Mar. 2024]** Serving as a Reviewer for ACMMM-24 and [ELVM Workshop](https://sites.google.com/view/elvm/call-for-papers) @ CVPR-24. 
@@ -22,10 +23,10 @@ In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_
 - **[July 2023]** One paper about sound source distance estimation is accepted at WASPAA 23. 
 - **[May 2023]** One paper about multimodal sound recognition is accepted at INTERSPEECH 23.
 - **[May 2023]** Joining as a PhD student at UT Dallas.
-- **[May 2023]** Completed MS in CS from NYU Courant.
 <details style="margin-top: -20px;">  
   <summary>More</summary>
   <ul>
+    <li><strong>[May 2023]</strong> Completed MS in CS from NYU Courant.</li>
     <li><strong>[May 2023]</strong> Received Exceptional Contribution award as guitarist for NYU pop/rock ensemble.</li>
     <li><strong>[May 2023]</strong> NYU pop/rock ensemble won the 2023 Downbeat award for outstanding performance.</li>
     <li><strong>[Mar. 2023]</strong> Serving as a reviewer for Machine Learning for Signal Processing (MLSP) 2023.</li>
