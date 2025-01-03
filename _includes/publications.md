@@ -38,7 +38,7 @@
     <div class="periodical"><em>International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2410.11299" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://sakshamsingh1.github.io/spatial_audio_demo.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://sakshamsingh1.github.io/diff-sage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://www.youtube.com/watch?v=J-pBzCMyUKE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
     </div>
   </div>
