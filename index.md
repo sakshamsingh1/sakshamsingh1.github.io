@@ -14,6 +14,7 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 ## News
+- **[Feb 2025]** One paper about holistic audio generation accepted at [CVPR-25](https://cvpr.thecvf.com/Conferences/2025). 
 - **[Dec 2024]** One paper about spatial audio generation accepted at [ICASSP-25](https://2025.ieeeicassp.org/). 
 - **[Oct 2024]** One paper about multimodal dataset distillation accepted at [TMLR-24](https://jmlr.org/tmlr/). 
 - **[May 2024]** One paper accepted at [Sight and Sound Workshop](https://sightsound.org/#schedule) @ CVPR-24. 
