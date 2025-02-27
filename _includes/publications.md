@@ -8,12 +8,13 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/tv2a_arxiv.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2412.10768">VinTAGe: Joint Video and Text Conditioning for Holistic Audio Generation</a></div>
     <div class="author"><strong>Saksham Singh Kushwaha</strong>, Yapeng Tian</div>
-    <div class="periodical"><em>ArXiv (Under review), 2024.</em></div>
+    <div class="periodical"><em>CVPR, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2412.10768" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://sakshamsingh1.github.io/vintage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
