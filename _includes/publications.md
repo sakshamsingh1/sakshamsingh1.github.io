@@ -42,6 +42,8 @@
       <a href="https://arxiv.org/pdf/2410.11299" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://sakshamsingh1.github.io/diff-sage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://www.youtube.com/watch?v=J-pBzCMyUKE" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+      <a href="https://github.com/sakshamsingh1/sakshamsingh1.github.io/blob/main/assets/files/icassp25_ppt.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      <a href="https://github.com/sakshamsingh1/sakshamsingh1.github.io/blob/main/assets/files/icassp25_poster.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
     </div>
   </div>
 </div>
