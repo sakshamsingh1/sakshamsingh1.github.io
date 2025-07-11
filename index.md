@@ -13,6 +13,11 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 
 In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
+<p style="color:red; font-weight:bold;">
+I am always looking for motivated MS / undergraduate students to supervise on deep learning projects. <br>
+If you have strong coding skills and are interested in research, feel free to reach out via mail.
+</p>
+
 ## News
 - **[May 2025]** Started internship at Adobe Research. 
 - **[Feb 2025]** One paper about holistic audio generation accepted at [CVPR-25](https://cvpr.thecvf.com/Conferences/2025). 
