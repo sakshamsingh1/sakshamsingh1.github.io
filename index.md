@@ -14,7 +14,7 @@ I received my B.Tech degree in Mathematics and Computing from IIT Delhi.
 In my spare time, I like to play [guitar](https://www.youtube.com/channel/UCdkc_DZCi8VtEiH1YYKrD5w) and tennis.
 
 <p style="color:red; font-weight:bold;">
-I am always looking for motivated MS / undergraduate students to supervise on deep learning projects. If you have strong coding skills and are interested in research, feel free to reach out via mail.
+I am always looking for motivated MS / undergraduate students to supervise on deep learning projects. If you have strong coding skills and are interested in research, please reach out via mail.
 </p>
 
 ## News
