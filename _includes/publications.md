@@ -7,6 +7,29 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="https://sarthaxxxxx.github.io/images/av_robust.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">NeurIPS</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2506.00358">Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time</a></div>
+    <div class="author">Sarthak Maharana, <strong>Saksham Kushwaha</strong>, Baoming Zhang, Adrian Rodriguez, Songtao Wei, Yapeng Tian, Yunhui Guo</div>
+    <div class="periodical"><em>NeurIPS D&B, 2025.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2506.00358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/sarthaxxxxx/AVROBUSTBENCH" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://huggingface.co/datasets/sakshamsingh1/av_robust_data/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
+      <a href="https://www.youtube.com/watch?v=hYdcRO3BuIY&ab_channel=SarthakMaharana" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/tv2a_arxiv.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">CVPR</abbr>
   </div>
