@@ -17,6 +17,7 @@
     <div class="periodical"><em>NeurIPS D&B, 2025.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2506.00358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://sarthaxxxxx.github.io/AVROBUSTBENCH/index.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/sarthaxxxxx/AVROBUSTBENCH" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/datasets/sakshamsingh1/av_robust_data/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Dataset</a>
       <a href="https://www.youtube.com/watch?v=hYdcRO3BuIY&ab_channel=SarthakMaharana" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Demo</a>
