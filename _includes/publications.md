@@ -7,6 +7,27 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/object_wiper.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ArXiv</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/pdf/2601.06391">Object-WIPER: Training-Free Object and Associated Effect Removal in Videos</a></div>
+    <div class="author"><strong>Saksham Kushwaha</strong>, Sayan Nag, Yapeng Tian, Kuldeep Kulkarni</div>
+    <div class="periodical"><em>ArXiv, 2026.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2601.06391" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://sakshamsingh1.github.io/object_wiper_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="https://sarthaxxxxx.github.io/images/av_robust.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">NeurIPS</abbr>
   </div>
