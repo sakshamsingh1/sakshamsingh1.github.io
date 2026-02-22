@@ -18,7 +18,7 @@ I am always looking for motivated MS / undergraduate students to supervise on de
 </p>
 
 ## News
-- **[Feb. 2026]** Two papers, about Object removal and Holistic audio generation, are accepted at CVPR-26.
+- **[Feb. 2026]** Two papers, Object removal and Holistic audio generation, accepted at CVPR-26.
 - **[Jan. 2026]** Started remote internship at Sony Research.
 - **[Sept. 2025]** One paper about audio-visual robustness is accepted at NeurIPS-25 D&B track.
 - **[May 2025]** Started internship at Adobe Research.
