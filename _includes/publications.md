@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2601.06391">Object-WIPER: Training-Free Object and Associated Effect Removal in Videos</a></div>
-    <div class="author"><strong>Saksham Kushwaha</strong>, Sayan Nag, Yapeng Tian, Kuldeep Kulkarni</div>
+    <div class="author"><strong>Saksham Singh Kushwaha</strong>, Sayan Nag, Yapeng Tian, Kuldeep Kulkarni</div>
     <div class="periodical"><em>CVPR, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2601.06391" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -23,6 +23,27 @@
 </div>
 </li>
 <br>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/omnisonic.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://sakshamsingh1.github.io/">OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text</a></div>
+    <div class="author">Weiguo Pian, <strong>Saksham Kushwaha</strong>, Zhimin Chen, Shijian Deng, Kai Wang, Yunhui Guo, Yapeng Tian</div>
+    <div class="periodical"><em>CVPR, 2026.</em></div>
+    <div class="links">
+      <a href="https://sakshamsingh1.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+<br>
+
 
 <li>
 <div class="pub-row">
