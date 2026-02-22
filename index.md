@@ -18,15 +18,15 @@ I am always looking for motivated MS / undergraduate students to supervise on de
 </p>
 
 ## News
-- **[Sept. 2025]** One paper about audio-visual robustness is accepted at NeurIPS-25 D&B track. 
-- **[May 2025]** Started internship at Adobe Research. 
+- **[Feb. 2026]** Two papers, about Object removal and Holistic audio generation, are accepted at CVPR-26.
+- **[Jan. 2026]** Started remote internship at Sony Research.
+- **[Sept. 2025]** One paper about audio-visual robustness is accepted at NeurIPS-25 D&B track.
+- **[May 2025]** Started internship at Adobe Research.
 - **[Feb 2025]** One paper about holistic audio generation accepted at [CVPR-25](https://cvpr.thecvf.com/Conferences/2025). 
 - **[Dec 2024]** One paper about spatial audio generation accepted at [ICASSP-25](https://2025.ieeeicassp.org/). 
 - **[Oct 2024]** One paper about multimodal dataset distillation accepted at [TMLR-24](https://jmlr.org/tmlr/). 
 - **[May 2024]** One paper accepted at [Sight and Sound Workshop](https://sightsound.org/#schedule) @ CVPR-24. 
 - **[Mar. 2024]** Serving as a Reviewer for ACMMM-24 and [ELVM Workshop](https://sites.google.com/view/elvm/call-for-papers) @ CVPR-24. 
-- **[Sept. 2023]** Serving as a Reviewer for ICASSP-24. 
-- **[July 2023]** Serving as a Reviewer for AAAI-24. 
 - **[July 2023]** One paper about sound source distance estimation is accepted at WASPAA 23. 
 <details style="margin-top: -20px;">  
   <summary>More</summary>
