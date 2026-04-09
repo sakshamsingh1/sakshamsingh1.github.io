@@ -38,6 +38,7 @@
     <div class="periodical"><em>CVPR, 2026.</em></div>
     <div class="links">
       <a href="https://sakshamsingh1.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://weiguopian.github.io/OmniSonic_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
 </div>
