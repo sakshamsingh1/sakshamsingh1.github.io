@@ -18,6 +18,7 @@ I am always looking for motivated MS / undergraduate students to supervise on de
 </p>
 
 ## News
+- **[Mar. 2026]** Awarded $1000 Google Cloud Research Credits.
 - **[Feb. 2026]** Two papers, Object removal and Holistic audio generation, accepted at [CVPR-26](https://cvpr.thecvf.com/).
 - **[Jan. 2026]** Started remote internship at Sony Research.
 - **[Sept. 2025]** One paper about audio-visual robustness is accepted at [NeurIPS-25](https://neurips.cc/) D&B track.
@@ -27,11 +28,11 @@ I am always looking for motivated MS / undergraduate students to supervise on de
 - **[Oct 2024]** One paper about multimodal dataset distillation accepted at [TMLR-24](https://jmlr.org/tmlr/). 
 - **[May 2024]** One paper accepted at [Sight and Sound Workshop](https://sightsound.org/#schedule) @ CVPR-24. 
 - **[Mar. 2024]** Serving as a Reviewer for ACMMM-24 and [ELVM Workshop](https://sites.google.com/view/elvm/call-for-papers) @ CVPR-24. 
-- **[July 2023]** One paper about sound source distance estimation is accepted at WASPAA 23. 
 <details style="margin-top: -20px;">  
   <summary>More</summary>
   <ul>
-    <li><strong>[May 2023]</strong> One paper about multimodal sound recognition is accepted at INTERSPEECH 23.</li> 
+    <li><strong>[July 2023]</strong> One paper about sound source distance estimation is accepted at WASPAA 23.</li>
+    <li><strong>[May 2023]</strong> One paper about multimodal sound recognition is accepted at INTERSPEECH 23.</li>
     <li><strong>[May 2023]</strong> Joining as a PhD student at UT Dallas.</li> 
     <li><strong>[May 2023]</strong> Completed MS in CS from NYU Courant.</li>
     <li><strong>[May 2023]</strong> Received Exceptional Contribution award as guitarist for NYU pop/rock ensemble.</li>
