@@ -33,11 +33,11 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://sakshamsingh1.github.io/">OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text</a></div>
+    <div class="title"><a href="https://arxiv.org/pdf/2604.04348">OmniSonic: Towards Universal and Holistic Audio Generation from Video and Text</a></div>
     <div class="author">Weiguo Pian, <strong>Saksham Kushwaha</strong>, Zhimin Chen, Shijian Deng, Kai Wang, Yunhui Guo, Yapeng Tian</div>
     <div class="periodical"><em>CVPR, 2026.</em></div>
     <div class="links">
-      <a href="https://sakshamsingh1.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2604.04348" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://weiguopian.github.io/OmniSonic_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
