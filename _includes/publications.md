@@ -59,7 +59,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/pdf/2506.00358">AVRobustBench: Benchmarking the Robustness of Audio-Visual Recognition Models at Test-Time</a></div>
     <div class="author">Sarthak Maharana, <strong>Saksham Kushwaha</strong>, Baoming Zhang, Adrian Rodriguez, Songtao Wei, Yapeng Tian, Yunhui Guo</div>
-    <div class="periodical"><em>NeurIPS D&B, 2025.</em></div>
+    <div class="periodical"><em>NeurIPS D&B, 2025; DataMFM CVPRW, 2026.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2506.00358" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://sarthaxxxxx.github.io/AVROBUSTBENCH/index.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
