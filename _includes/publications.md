@@ -18,8 +18,9 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2601.06391" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://sakshamsingh1.github.io/object_wiper_webpage/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/sakshamsingh1/sam3_mask_annotation_tool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Anno code</a>
+      <a href="https://github.com/sakshamsingh1/object_wiper" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/datasets/sakshamsingh1/WIPER-bench" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>
+      <a href="https://github.com/sakshamsingh1/sam3_mask_annotation_tool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Anno code</a>
     </div>
   </div>
 </div>
