@@ -21,6 +21,7 @@
       <a href="https://github.com/sakshamsingh1/object_wiper" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://huggingface.co/datasets/sakshamsingh1/WIPER-bench" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Data</a>
       <a href="https://github.com/sakshamsingh1/sam3_mask_annotation_tool" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Anno code</a>
+      <a href="https://research.adobe.com/news/object-wiper-a-smarter-way-to-erase-objects-from-video/?linkId=100000420255640" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Blog</a>
     </div>
   </div>
 </div>
