@@ -1,6 +1,12 @@
 ## Invited Talks
 
 <ul style="margin:0 0 5px;">
+  <li><autocolor>Training-free object and associated effect removal in Videos @ Voxel51:</autocolor>
+  <a href="https://voxel51.com/events/ai-ml-and-computer-vision-meetup-july-23-2026?utm_source=LinkedIn&utm_medium=organic_social&utm_campaign=26_0723_Meetup&utm_content=linkedin_announcement">Link</a>
+  </li>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li><autocolor>Object removal in videos @ Sony Research 2026:</autocolor>
   </li>
 </ul>
