@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 I am third-year CS Ph.D. Candidate at the University of Texas at Dallas under [Dr. Yapeng Tian](https://www.yapengtian.com/).
-Previously, I did my MS in CS at NYU Courant where I was fortunate to work with [Prof. Juan Pablo Bello](https://engineering.nyu.edu/faculty/juan-pablo-bello), [Dr. Magdalena Fuentes](https://magdalenafuentes.github.io/), [Dr. Iran Roman](https://ccrma.stanford.edu/~iran/) at [Music and Audio Research Lab](https://steinhardt.nyu.edu/marl).
+Previously, I did my MS in CS at NYU Courant where I was fortunate to work with [Prof. Juan Pablo Bello](https://engineering.nyu.edu/faculty/juan-pablo-bello), [Dr. Magdalena Fuentes](https://magdalenafuentes.github.io/), [Dr. Iran Roman](https://iranroman.github.io/) at [Music and Audio Research Lab](https://steinhardt.nyu.edu/marl).
 My research interests lie in multimodal deep learning and machine listening.  
 
 Prior to joining NYU, I worked as a machine learning engineer II at Zomato and as a senior data scientist at Sharechat. 
